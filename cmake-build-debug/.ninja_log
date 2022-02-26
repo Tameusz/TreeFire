@@ -1,0 +1,12 @@
+# ninja log v5
+5	749	6675903370943561	CMakeFiles/TreeFire.dir/main.cpp.obj	546417d26af5523f
+859	1621	6675904785513586	TreeFire.exe	5ac6bfacc5543430
+1	213	6675918132022119	build.ninja	da84422af8f28df1
+48	833	6675653437999910	CMakeFiles/TreeFire.dir/src/Field.cpp.obj	311694a6270b1ca0
+5	509	6675653434309085	CMakeFiles/TreeFire.dir/src/Arena.cpp.obj	87806a82c92b6e29
+4	859	6675904777929142	CMakeFiles/TreeFire.dir/src/SFMLHandling.cpp.obj	425f779a2795db9e
+6	166	6675918311242734	CMakeFiles/TreeFire.dir/src/Arena.cpp.obj	40f70e6d3f490525
+27	773	6675918317284092	CMakeFiles/TreeFire.dir/src/Field.cpp.obj	551b661f61b058ec
+21	969	6675918319264551	CMakeFiles/TreeFire.dir/main.cpp.obj	49c9071c9c9ac3fe
+24	1274	6675918322290303	CMakeFiles/TreeFire.dir/src/SFMLHandling.cpp.obj	2d360bb4d471c0ce
+1274	2372	6675918333205327	TreeFire.exe	5ac6bfacc5543430

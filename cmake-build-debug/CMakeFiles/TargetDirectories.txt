@@ -1,0 +1,3 @@
+C:/Users/szust/Documents/GitHub/TreeFire/cmake-build-debug/CMakeFiles/TreeFire.dir
+C:/Users/szust/Documents/GitHub/TreeFire/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/szust/Documents/GitHub/TreeFire/cmake-build-debug/CMakeFiles/rebuild_cache.dir

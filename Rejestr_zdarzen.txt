@@ -1,0 +1,100 @@
+Procent spalonych drzew:0.266667%
+Spalonych drzew:1
+Czas:12.6011 s
+Ilość kamieni:25
+
+Procent spalonych drzew:1.06667%
+Spalonych drzew:4
+Czas:13.7745 s
+Ilość kamieni:25
+
+Procent spalonych drzew:2.66667%
+Spalonych drzew:10
+Czas:14.9343 s
+Ilość kamieni:25
+
+Procent spalonych drzew:4.8%
+Spalonych drzew:18
+Czas:16.0477 s
+Ilość kamieni:25
+
+Procent spalonych drzew:8%
+Spalonych drzew:30
+Czas:17.1782 s
+Ilość kamieni:25
+
+Procent spalonych drzew:12%
+Spalonych drzew:45
+Czas:18.3206 s
+Ilość kamieni:25
+
+Procent spalonych drzew:18.4%
+Spalonych drzew:69
+Czas:19.4651 s
+Ilość kamieni:25
+
+Procent spalonych drzew:25.0667%
+Spalonych drzew:94
+Czas:20.6263 s
+Ilość kamieni:25
+
+Procent spalonych drzew:33.6%
+Spalonych drzew:126
+Czas:21.7693 s
+Ilość kamieni:25
+
+Procent spalonych drzew:41.3333%
+Spalonych drzew:155
+Czas:22.9071 s
+Ilość kamieni:25
+
+Procent spalonych drzew:50.6667%
+Spalonych drzew:190
+Czas:24.0462 s
+Ilość kamieni:25
+
+Procent spalonych drzew:57.3333%
+Spalonych drzew:215
+Czas:25.1892 s
+Ilość kamieni:25
+
+Procent spalonych drzew:63.2%
+Spalonych drzew:237
+Czas:26.3186 s
+Ilość kamieni:25
+
+Procent spalonych drzew:68.5333%
+Spalonych drzew:257
+Czas:27.4575 s
+Ilość kamieni:25
+
+Procent spalonych drzew:73.8667%
+Spalonych drzew:277
+Czas:28.606 s
+Ilość kamieni:25
+
+Procent spalonych drzew:78.9333%
+Spalonych drzew:296
+Czas:29.7289 s
+Ilość kamieni:25
+
+Procent spalonych drzew:83.7333%
+Spalonych drzew:314
+Czas:30.8733 s
+Ilość kamieni:25
+
+Procent spalonych drzew:88%
+Spalonych drzew:330
+Czas:32.001 s
+Ilość kamieni:25
+
+Procent spalonych drzew:93.0667%
+Spalonych drzew:349
+Czas:33.1332 s
+Ilość kamieni:25
+
+Procent spalonych drzew:94.9333%
+Spalonych drzew:356
+Czas:34.2608 s
+Ilość kamieni:25
+
